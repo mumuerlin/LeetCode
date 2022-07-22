@@ -42,11 +42,11 @@
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 是否完成 |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- | :------: |
 |  21  | 简单 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [merge two sorted lists](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_21/MergeTwoSortedLists.java)                                                             |    ✅     |
-|  24  | 中等 | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [swap nodes in pairs](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_24/SwapNodesInPairs.java) |    ✅     |
+|  24  | 中等 | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [swap nodes in pairs](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_24/SwapNodesInPairs.java) |    ❎     |
 |  25  | 困难 | [K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | [reverse node in k group](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_25/ReverseNodesInkGroup.java) |    ✅     |
-| 141  | 简单 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [linkedList cycle](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_141/LinkedListCycle.java) |    ✅     |
-| 142  | 中等 | [环形链表II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [linked list cycle II](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_142/LinkedListCycleII.java) |    ✅     |
-| 206  | 简单 | [反转链表](https://leetcode.com/problems/reverse-linked-list/) | [reverse list](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_206/ReverseList.java) |    ✅     |
+| 141  | 简单 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [linkedList cycle](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_141/LinkedListCycle.java) |    ❎     |
+| 142  | 中等 | [环形链表II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [linked list cycle II](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_142/LinkedListCycleII.java) |    ❎     |
+| 206  | 简单 | [反转链表](https://leetcode.com/problems/reverse-linked-list/) | [reverse list](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_206/ReverseList.java) |    ❎     |
 
 > 其他实战题目
 
@@ -74,7 +74,7 @@
 | 105  | 中等 | [从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |  [construct binary tree](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_105/ConstructBinaryTreeFromPreorderAndInorderTraversal.java)        |    ✅     |
 | 111  | 简单 | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree) |    [minimum depth of binary tree](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_111/MinimumDepthOfBinaryTree.java)      |    ✅     |
 | 144  | 中等 | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/description/ ) | [binary tree preorder traversal](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_144/BinaryTreePreorderTraversal.java)         |    ✅    |
-| 226  | 简单 | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/) |   [invert binary tree](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_226/InvertBinaryTree.java)       |    ✅     |
+| 226  | 简单 | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/) |   [invert binary tree](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_226/InvertBinaryTree.java)       |    ❎     |
 | 230  | 中等 | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/comments/) |          |    ❎     |
 | 236  | 中等 | [二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [lowest common ancestor](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_236/LowestCommonAncestorOfABinaryTree.java)         |    ✅     |
 | 297  | 困难 | [二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) |          |    ❎     |
